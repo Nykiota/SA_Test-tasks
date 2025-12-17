@@ -145,7 +145,7 @@ Content-Type: application/json
     "current_time": "17:05"
   }
 }
-
+```
 
 
 ## Задание 3: архитектура
