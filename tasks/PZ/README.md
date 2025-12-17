@@ -44,7 +44,7 @@ Content-Type: application/json
 
 Привести пример ответа этого REST API в соответствии с макетом. Формат - JSON. Учесть, что при клике на плашку магазина должен осуществляться переход по ссылке на внешний ресурс. 
 
-{
+{{
  "status": "success",
   "data": {
       "shops": [
@@ -122,8 +122,8 @@ Content-Type: application/json
             "date": "2025-12-14",
             "date_formatted": "сегодня",
             "intervals": [
-              {
-                "start": "17:00",
+{
+"start": "17:00",
                 "end": "19:00",
                 "formatted": "17:00-19:00"
        }
@@ -142,7 +142,7 @@ Content-Type: application/json
     "current_date": "2025-12-14",
     "current_time": "17:05"
   }
-}
+}}
 
 
 
