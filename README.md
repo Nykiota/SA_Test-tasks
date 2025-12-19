@@ -3,3 +3,7 @@
 
 
 Проектирование Корзины для ["Петрушка Зеленая"](https://github.com/Nykiota/SA_Test-tasks/tree/main/tasks/PZ)
+
+EPC Лаборатория
+EPC База отдыха
+ERD База отдыха
